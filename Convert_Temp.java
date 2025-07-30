@@ -1,3 +1,0 @@
-public Convert_Temp {
-    
-}
